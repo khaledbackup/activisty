@@ -1,0 +1,61 @@
+.container {
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+
+.discription {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* margin-top: 40px;
+  margin-bottom: 40px; */
+  text-align: justify;
+  margin-bottom: 5%;
+  margin-top: 12%;
+}
+.discriptionCulture {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* margin-top: 40px;
+  margin-bottom: 40px; */
+  text-align: justify;
+  margin-bottom: 5%;
+  
+
+}
+
+.awssld__content > img {
+  object-fit: initial;
+}
+.img-fluid {
+  height: 400px;
+}
+.title{
+  color: black;
+  text-align: center;
+ 
+
+}
+.videoBgWrapper {
+  
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    
+}
+
+.videoBg{
+  margin-top: 49.4%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
